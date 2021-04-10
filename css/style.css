@@ -1,0 +1,39 @@
+.h1{
+  font-size: 30px;
+  background-color:grey;
+  color:white;
+  text-align:center;
+}
+
+ p {
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+  }
+  p.over {
+     background: #ccc;
+  }
+  span {
+    color: red;
+  }
+/*meta key*/
+  div {
+    padding: 20px;
+  }
+  /*event.data*/
+  /*.focus()*/
+.p
+   { background: white;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+.sp {
+    display: none;
+}
+/*select*/
+
+  div {
+    color: red;
+  }
